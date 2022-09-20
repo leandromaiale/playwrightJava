@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1,402">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getAllPost"
+                time="0,609"
+                classname="FirstScript.AppTest">
+            </testcase>
+            <testcase
+                name="addNewPost"
+                time="0,793"
+                classname="FirstScript.AppTest">
+            </testcase>
+</testsuite>
